@@ -1,0 +1,14 @@
+.card footer {
+    background-color: #FDFDC9;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    font-size: 0.75em;
+    clip-path: polygon(50% 0, 50% 15%, 0 15%, 0 75%, 100% 75%, 100% 15%, 75% 15%);
+}
+
+.card footer h3 {
+    font-size: 1em;
+}

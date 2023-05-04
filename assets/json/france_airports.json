@@ -1,0 +1,47 @@
+[
+    {
+        "ICAO" : "LFOA",
+        "name" : "Avord (BA 702) Air Base",
+        "city" : "Avord"
+    },
+    {
+        "ICAO" : "LFBD",
+        "name" : "Bordeaux-Mérignac Airport",
+        "city" : "Bordeaux"
+    },
+    {
+        "ICAO" : "LFPG",
+        "name" : "Paris-Charles de Gaulle Airport",
+        "city" : "Paris"
+    },
+    {
+        "ICAO" : "LFSB",
+        "name" : "EuroAirport Basel-Mulhouse-Freiburg Airport",
+        "city" : "Bâle/Mulhouse"
+    },
+    {
+        "ICAO" : "LFLL",
+        "name" : "Lyon Saint-Exupéry Airport",
+        "city" : "Lyon"
+    },
+    {
+        "ICAO" : "LFML",
+        "name" : "Marseille Provence Airport",
+        "city" : "Marseille"
+    },
+    {
+        "ICAO" : "LFMN",
+        "name" : "Nice-Côte d'Azur Airport",
+        "city" : "Nice"
+    },
+    {
+        "ICAO" : "LFPO",
+        "name" : "Paris-Orly Airport",
+        "city" : "Paris"
+    },
+    {
+        "ICAO" : "LFBO",
+        "name" : "Toulouse-Blagnac Airport",
+        "city" : "Toulouse/Blagnac"
+    }
+]

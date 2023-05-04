@@ -1,0 +1,40 @@
+.papyrus {
+    margin-top: 5%;
+    background-color: beige;
+    width: 55vw;
+    height: 75vh;
+    padding: 0 5% 2% 5%;
+}
+
+body:has(.papyrus) {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+fieldset {
+    width: 40%;
+    border: 0;
+}
+
+.form {
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.time-range {
+    display: flex;
+    flex-direction: column;
+}
+
+.row-space-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+body:has(.papyrus) footer {
+    font-size: 2em;
+}
